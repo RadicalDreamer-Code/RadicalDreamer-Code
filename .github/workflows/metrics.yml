@@ -17,6 +17,3 @@ jobs:
           base_indepth: yes
           config_timezone: Europe/Berlin
           plugin_languages: yes
-          plugin_sponsorships: yes
-          plugin_sponsorships_sections: sponsorships
-          plugin_sponsorships_size: 64
