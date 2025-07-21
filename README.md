@@ -1,5 +1,4 @@
 ## Hi there 👋
-
 <!--
 **RadicalDreamer-Code/RadicalDreamer-Code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,react,py,django,cs,tailwind,unity,unreal,yarn,docker,git" />
+  </a>
+</p>
 
 <div align="center">
   <a href="https://github.com/lowlighter/metrics">
