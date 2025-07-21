@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align="center">
+  <img height="200" src="./gifs/notebook.gif" />
+</div>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,react,py,django,cs,tailwind,unity,unreal,yarn,docker,git" />
