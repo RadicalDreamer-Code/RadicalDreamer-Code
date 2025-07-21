@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://github.com/lowlighter/metrics">
-    <img align="center" src="https://github.com/RadicalDreamer-Code/RadicalDreamer-Code/blob/master/github-metrics.svg" />
+    <img align="center" src="https://github.com/RadicalDreamer-Code/RadicalDreamer-Code/blob/main/github-metrics.svg" />
   </a>
 </div>
