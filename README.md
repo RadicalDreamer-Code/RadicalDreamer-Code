@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+  <a href="https://github.com/lowlighter/metrics">
+    <img align="center" src="https://github.com/RadicalDreamer-Code/RadicalDreamer-Code/blob/master/github-metrics.svg" />
+  </a>
+</div>
