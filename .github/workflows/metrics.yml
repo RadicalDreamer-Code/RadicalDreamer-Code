@@ -16,4 +16,3 @@ jobs:
           base: header, activity, community, repositories, metadata
           base_indepth: yes
           config_timezone: Europe/Berlin
-          plugin_languages: yes
